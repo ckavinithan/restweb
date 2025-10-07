@@ -29,7 +29,26 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
+index.html
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> CASANDRA - Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    
+    <h1> CASANDRA</h1>
+  </header>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="menu.html">Menu</a>
+    <a href="admin.html">Administration</a>
+    <a href="contact.html">Contact Us</a>
+  </nav>
 
   <section class="cards">
     <div class="card">
